@@ -71,10 +71,13 @@ p {
     padding: 0 1.5em;
 }
 
-#showcase li {
+#showcase nav {
     list-style: none;
     margin:0;
     padding:0;
+}
+
+#showcase li {
     display: inline;
 }
 
