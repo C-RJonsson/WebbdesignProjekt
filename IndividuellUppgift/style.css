@@ -78,13 +78,12 @@ nav {
     overflow:hidden;
 }
 
-li {
-    width:100%;
-}
+
 li a {
     display: block;
     padding: 8px;
     background-color: #dddddd;
+    width:100%;
 }
 
 /* Section A */
