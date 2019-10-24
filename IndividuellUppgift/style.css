@@ -82,7 +82,7 @@ li {
     width:100%;
 }
 li a {
-    display: inline;
+    display: block;
     padding: 8px;
     background-color: #dddddd;
 }
