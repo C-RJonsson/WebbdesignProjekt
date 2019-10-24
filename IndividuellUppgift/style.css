@@ -79,6 +79,12 @@ p {
     padding-bottom: 2em;
 }
 
+#section-a li {
+    list-style: none;
+    margin:0;
+    padding:0;
+}
+
 /* Section B*/
 
 #section-b {
