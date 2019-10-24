@@ -71,6 +71,31 @@ p {
     padding: 0 1.5em;
 }
 
+/* NavBar */
+
+#showcase nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  #showcase li {
+    float: left;
+  }
+  
+  #showcase li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
+  }
+  
+  #showcase li a:hover {
+    background-color: #111;
+  }
 
 /* Section A */
 
@@ -176,7 +201,7 @@ p {
     width: 20px;
     text-align: center;
     text-decoration: none;
-    margin: 5px 1px;
+    margin: 10px 1px;
     float:right;
   }
   
