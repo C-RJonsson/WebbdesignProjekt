@@ -99,7 +99,7 @@ p {
   }
   
   .topnav a.active {
-    background-color: #4CAF50;
+    background-color: rgb(65, 0, 119);
     color: white;
   }
   
@@ -234,7 +234,7 @@ p {
     text-align: center;
     text-decoration: none;
     margin: 5px 5px;
-    float:right;
+    float:left;
   }
   
   .fa:hover {
