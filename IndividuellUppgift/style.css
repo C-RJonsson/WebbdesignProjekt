@@ -78,7 +78,7 @@ p {
 
 /* NavBar */
 .navb {
-    background: rgba(0,0,0,0.7);
+    background: red;
     box-shadow: 1px 1px 4px 0 rgba(0,0,0,.1);
     position:fixed;
     width:100%;
@@ -201,6 +201,7 @@ p {
 }
 
 /* Social Media Knappar */
+
 .fa {
     text-align: center;
     text-decoration: none;
