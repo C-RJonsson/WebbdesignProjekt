@@ -180,18 +180,24 @@ p {
         float:left;
     }
     .navb li a {
-        padding:20px 30px;
+        padding:25px 30px;
     }
 
     .navb .menu {
         clear:none;
-        float: center;
+        float: right;
         max-height: none;
     }
 
     .navb .menu-icon {
         display: none;
     }
+    .fa {
+        text-align: center;
+        text-decoration: none;
+        margin: 0px;
+      } 
+    
 /*
     .socialmedia {
         clear:none;
@@ -203,11 +209,7 @@ p {
 
 /* Social Media Knappar */
 
-.fa {
-    text-align: center;
-    text-decoration: none;
-    margin: 5px 5px;
-  }  
+ 
   .fa-facebook {
     
     color: white;
