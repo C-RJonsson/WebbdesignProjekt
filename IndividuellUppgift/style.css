@@ -200,6 +200,32 @@ p {
     }
 }
 
+/* Social Media Knappar */
+.fa {
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 5px;
+  }  
+  .fa-facebook {
+    
+    color: white;
+  }
+  
+  .fa-twitter {
+    
+    color: white;
+  }
+  
+  .fa-youtube {
+    
+    color: white;
+  }
+  
+  .fa-instagram {
+    
+    color: white;
+  }
+
 /* Section A */
 
 #section-a {
@@ -296,30 +322,4 @@ p {
         width: 31%;
     }
 }
-
-/* Social Media Knappar */
-.fa {
-    text-align: center;
-    text-decoration: none;
-    margin: 5px 5px;
-  }  
-  .fa-facebook {
-    
-    color: white;
-  }
-  
-  .fa-twitter {
-    
-    color: white;
-  }
-  
-  .fa-youtube {
-    
-    color: white;
-  }
-  
-  .fa-instagram {
-    
-    color: white;
-  }
   
