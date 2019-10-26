@@ -78,7 +78,7 @@ p {
 
 /* NavBar */
 .navb {
-    background: red;
+    background: rgba(0,0,0,0.7);
     box-shadow: 1px 1px 4px 0 rgba(0,0,0,.1);
     position:fixed;
     width:100%;
@@ -108,7 +108,7 @@ p {
 }
 
 .navb ul a:hover {
-    background-color:#5ca1e5;
+    background-color:gray;
 }
 
 .navb .menu {
