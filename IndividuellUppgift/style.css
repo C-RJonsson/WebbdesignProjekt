@@ -3,6 +3,92 @@
     margin: 0;
     box-sizing: border-box;
 }
+.content-wrap a{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.content-wrap h1{
+    font-size: 2em;
+    margin: .67em;
+    padding: 1em 0; 
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    font-weight: bold;
+    margin-top: auto;
+}
+
+.content-wrap i{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.content-wrap h2{
+    font-size: 1.5em;
+    margin: .5em;
+    padding: 0.8em 0; 
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    font-weight: bold;
+}
+
+#main-footer {
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    font-weight: bold;
+    font-size: .7em;
+}
+
+.content-wrap p{
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+
+.card-content h3{
+    font-size: 1.3em;
+    margin: .5em;
+    padding: 0.8em 0; 
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    font-weight: bold;
+    color: white;
+}
+
+.card-content a{
+    font-size: 1.3em;
+    margin: .5em;
+    padding: 0.8em 0; 
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    font-weight: bold;
+    color: white;
+}
+
+.card-content p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.content-text p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.box h2{
+    font-size: 1.5em;
+    margin: .5em;
+    padding: 0.8em 0; 
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    font-weight: bold;
+}
+
+.box p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.inlog{
+    margin-top: 110%;
+}
+
+.box a{
+    color: white;
+}
+
+.content-text a{
+    color: black;
+}
 
 .bmli{
     display: inline-block;
