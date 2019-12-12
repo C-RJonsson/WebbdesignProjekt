@@ -65,6 +65,7 @@ img {
     font-size: 3em;
     margin: .67em;
     padding: 1em 0; 
+    text-shadow: 2px 2px #333;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     margin-top: auto;
