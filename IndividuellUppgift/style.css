@@ -120,7 +120,7 @@ p {
 }
 
 .btn:hover {
-    background: #5ca1e5;
+    background: #1f6ebd;
     color: #fff;
 }
 
@@ -189,10 +189,10 @@ p {
 }
 
 .navb ul a:hover {
-    background-color:#5ca1e5;
+    background-color:#1f6ebd;
 }
 .navb ul .active {
-    background-color:#5ca1e5;
+    background-color:#1f6ebd;
 }
 
 .navb .menu {
@@ -362,7 +362,7 @@ p {
 }
 
 #section-d .box:first-child {
-    background: #5ca1e5;
+    background: #1f6ebd;
 }
 
 /* Footer */
